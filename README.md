@@ -1,8 +1,13 @@
 # Workshop-8
 
+This is the URl -- (https://emmazig.github.io/Workshop-8/)
+
 ipify.org 
+
 Json = java script object notation
+
 open-meteo.com (weather forecast api)
+
 Limitation - read in documentation
 
 Create variables 
