@@ -20,7 +20,7 @@ function windowResized(){
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textAlign(CENTER)
-
+  textSize(30)
   getWeather();
   
 }
@@ -41,10 +41,10 @@ function draw() {
   text("Wave Height In Six Hours: " + wavesInSixHours+ "m", windowWidth/2, windowHeight/2)
   text("Swell Height In Six Hours: " + swellInSixHours+ "m", windowWidth/2, windowHeight/2 + 40)
   text(currentTime,windowWidth/2, windowHeight/16 )
-  text(maxWave, 100,100,)
+ 
   textStyle(BOLD)
   text( "Hot Water Beach",windowWidth/2, windowHeight/8  )
   
-  textSize(30)
+  
 
 } 
