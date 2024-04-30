@@ -1,6 +1,6 @@
 # Workshop-8
 
-This is the URl -- (https://emmazig.github.io/Workshop-8/)
+This is the URl -- https://emmazig.github.io/Workshop-task-8/
 
 ipify.org 
 
